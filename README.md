@@ -25,7 +25,7 @@ Uma aplicação web-scraper que permite aos usuários:
 Web-Scraper/
 ├── scrapers/
 │   ├── carrefour.js
-│   ├── coop.js
+│   ├── coopsupermercado.js
 │   ├── davo.js
 │   ├── paodeacucar.js
 ├── categorize.js
