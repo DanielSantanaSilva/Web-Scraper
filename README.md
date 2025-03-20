@@ -64,7 +64,7 @@ cd Web-Scraper
 npm start
 ```
 
-2. Acesse a aplicação em `http://localhost:3000/(produto)`
+2. Acesse a aplicação em `http://localhost:3000/produtos?search=(Produto)`
 
 Exemplo:
 http://localhost:3000/produtos?search=Leite Piracanjuba
